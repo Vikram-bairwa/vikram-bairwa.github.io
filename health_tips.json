@@ -1,0 +1,137 @@
+[
+  {
+    "emoji": "💧",
+    "title_en": "Hydration",
+    "title_hi": "पानी पिएं",
+    "body_en": "Drink 8 glasses (2 litres) daily. Start mornings with warm lemon water for natural detox.",
+    "body_hi": "रोज़ 8 गिलास (2 लीटर) पानी पिएं। सुबह गर्म नींबू पानी से दिन शुरू करें।",
+    "tip_en": "💧 Drink at least 8 glasses of water daily for optimal hydration.",
+    "tip_hi": "💧 स्वस्थ रहने के लिए रोज़ाना कम से कम 8 गिलास पानी पिएं।"
+  },
+  {
+    "emoji": "🚶",
+    "title_en": "Daily Walk",
+    "title_hi": "रोज़ सैर",
+    "body_en": "30 minutes of walking daily reduces heart-disease risk by up to 35%.",
+    "body_hi": "रोज़ 30 मिनट की सैर से हृदय रोग का जोखिम 35% तक कम होता है।",
+    "tip_en": "🚶 A 30-minute daily walk reduces heart-disease risk by up to 35%.",
+    "tip_hi": "🚶 रोज़ 30 मिनट की सैर से हृदय रोग का जोखिम 35% तक कम होता है।"
+  },
+  {
+    "emoji": "😴",
+    "title_en": "Sleep",
+    "title_hi": "नींद",
+    "body_en": "Adults need 7–9 hours. Consistent sleep times improve energy and memory.",
+    "body_hi": "वयस्कों को 7-9 घंटे चाहिए। नियमित नींद से ऊर्जा और याददाश्त बेहतर होती है।",
+    "tip_en": "😴 7–9 hours of sleep helps your body repair and strengthens memory.",
+    "tip_hi": "😴 7–9 घंटे की नींद शरीर को ठीक करती है और याददाश्त मजबूत बनाती है।"
+  },
+  {
+    "emoji": "🥦",
+    "title_en": "Nutrition",
+    "title_hi": "पोषण",
+    "body_en": "Fill half your plate with colourful vegetables — each colour gives different nutrients.",
+    "body_hi": "आधी थाली रंग-बिरंगी सब्ज़ियों से भरें — हर रंग अलग पोषण देता है।",
+    "tip_en": "🥦 Eat colourful vegetables — each colour provides different nutrients.",
+    "tip_hi": "🥦 रंग-बिरंगी सब्ज़ियां खाएं — हर रंग अलग पोषण देता है।"
+  },
+  {
+    "emoji": "💊",
+    "title_en": "Medicines",
+    "title_hi": "दवाइयां",
+    "body_en": "Same time every day for best effectiveness. Never skip doses without consulting your doctor.",
+    "body_hi": "सबसे अच्छे प्रभाव के लिए हर रोज़ एक ही समय पर लें। डॉक्टर की सलाह बिना खुराक न छोड़ें।",
+    "tip_en": "💊 Take medicines at the same time every day for best effectiveness.",
+    "tip_hi": "💊 सबसे अच्छे प्रभाव के लिए दवाइयां हर रोज़ एक ही समय पर लें।"
+  },
+  {
+    "emoji": "🧘",
+    "title_en": "Stress Relief",
+    "title_hi": "तनाव मुक्ति",
+    "body_en": "5–10 minutes of deep breathing daily reduces cortisol and improves heart health.",
+    "body_hi": "रोज़ 5-10 मिनट की गहरी साँस से तनाव और हृदय स्वास्थ्य बेहतर होता है।",
+    "tip_en": "🧘 5 minutes of deep breathing reduces cortisol and improves focus.",
+    "tip_hi": "🧘 5 मिनट की गहरी साँस लेने से तनाव कम होता है और ध्यान बेहतर होता है।"
+  },
+  {
+    "emoji": "🌞",
+    "title_en": "Sunlight",
+    "title_hi": "धूप",
+    "body_en": "15 minutes of morning sunlight provides Vitamin D, strengthening bones and immunity.",
+    "body_hi": "सुबह 15 मिनट की धूप से विटामिन D मिलता है, हड्डियां और रोग प्रतिरोधक क्षमता मजबूत होती है।",
+    "tip_en": "🌞 Get 15 minutes of morning sunlight for natural Vitamin D.",
+    "tip_hi": "🌞 प्राकृतिक विटामिन D के लिए 15 मिनट की सुबह की धूप लें।"
+  },
+  {
+    "emoji": "🚫",
+    "title_en": "Screen Time",
+    "title_hi": "स्क्रीन टाइम",
+    "body_en": "Avoid screens 1 hour before bed for deeper, more restful sleep.",
+    "body_hi": "गहरी नींद के लिए सोने से 1 घंटे पहले स्क्रीन से दूर रहें।",
+    "tip_en": "🚫 Avoid screens 1 hour before bed for deeper, restful sleep.",
+    "tip_hi": "🚫 गहरी नींद के लिए सोने से 1 घंटे पहले स्क्रीन से दूर रहें।"
+  },
+  {
+    "emoji": "🫀",
+    "title_en": "Heart Health",
+    "title_hi": "हृदय स्वास्थ्य",
+    "body_en": "Reduce salt, sugar, and fried foods. Monitor blood pressure regularly after age 30.",
+    "body_hi": "नमक, चीनी और तले खाने से बचें। 30 के बाद नियमित रक्तचाप जाँचें।",
+    "tip_en": "🫀 Monitor blood pressure regularly, especially after age 30.",
+    "tip_hi": "🫀 विशेष रूप से 30 वर्ष की आयु के बाद नियमित रूप से रक्तचाप जाँचें।"
+  },
+  {
+    "emoji": "🍎",
+    "title_en": "Smart Snacking",
+    "title_hi": "स्वस्थ नाश्ता",
+    "body_en": "Choose fruits, nuts, or yogurt over chips. Healthy snacking keeps metabolism active.",
+    "body_hi": "चिप्स की जगह फल, मेवे या दही चुनें। स्वस्थ नाश्ता मेटाबॉलिज्म सक्रिय रखता है।",
+    "tip_en": "🍎 An apple a day: fibre & antioxidants keep the doctor away!",
+    "tip_hi": "🍎 रोज़ एक सेब: फाइबर और एंटीऑक्सीडेंट से डॉक्टर दूर रहता है!"
+  },
+  {
+    "emoji": "🦷",
+    "title_en": "Oral Health",
+    "title_hi": "मुँह की स्वच्छता",
+    "body_en": "Brush twice, floss once daily. Poor oral hygiene links to heart disease and diabetes.",
+    "body_hi": "दिन में दो बार ब्रश और एक बार फ्लॉस करें। खराब मुँह स्वच्छता हृदय रोग और मधुमेह से जुड़ी है।",
+    "tip_en": "🦷 Brush twice and floss daily — oral health affects your whole body.",
+    "tip_hi": "🦷 दिन में दो बार ब्रश करें — मुँह की स्वच्छता पूरे शरीर को प्रभावित करती है।"
+  },
+  {
+    "emoji": "👁",
+    "title_en": "Eye Care",
+    "title_hi": "आँखों की देखभाल",
+    "body_en": "Every 20 minutes, look 20 feet away for 20 seconds to reduce digital eye strain.",
+    "body_hi": "हर 20 मिनट में 20 सेकंड के लिए 20 फीट दूर देखें — डिजिटल आँख तनाव कम होगा।",
+    "tip_en": "👁 Every 20 min, look 20 feet away for 20 sec to reduce eye strain.",
+    "tip_hi": "👁 हर 20 मिनट में 20 सेकंड के लिए 20 फीट दूर देखें।"
+  },
+  {
+    "emoji": "🤝",
+    "title_en": "Mental Health",
+    "title_hi": "मानसिक स्वास्थ्य",
+    "body_en": "Stay connected with loved ones — social support is proven to extend a healthy life.",
+    "body_hi": "प्रियजनों से जुड़े रहें — सामाजिक समर्थन स्वस्थ जीवन बढ़ाता है।",
+    "tip_en": "🤝 Stay connected with loved ones for better mental and physical health.",
+    "tip_hi": "🤝 प्रियजनों से जुड़े रहें — मानसिक और शारीरिक स्वास्थ्य दोनों बेहतर होते हैं।"
+  },
+  {
+    "emoji": "🏃",
+    "title_en": "Exercise",
+    "title_hi": "व्यायाम",
+    "body_en": "150 minutes of moderate exercise per week significantly reduces chronic disease risk.",
+    "body_hi": "हफ्ते में 150 मिनट का मध्यम व्यायाम गंभीर बीमारियों का खतरा काफी कम करता है।",
+    "tip_en": "🏃 150 min/week of moderate exercise reduces chronic disease risk significantly.",
+    "tip_hi": "🏃 हफ्ते में 150 मिनट व्यायाम से गंभीर बीमारियों का खतरा कम होता है।"
+  },
+  {
+    "emoji": "🍽️",
+    "title_en": "Mindful Eating",
+    "title_hi": "सचेत खाना",
+    "body_en": "Eat slowly and without distractions. It improves digestion and reduces overeating by 20%.",
+    "body_hi": "धीरे-धीरे और बिना ध्यान भटकाए खाएं। पाचन बेहतर होता है और 20% कम खाया जाता है।",
+    "tip_en": "🍽️ Eat slowly — mindful eating improves digestion and reduces overeating.",
+    "tip_hi": "🍽️ धीरे खाएं — सचेत भोजन पाचन सुधारता और अधिक खाने से बचाता है।"
+  }
+]
